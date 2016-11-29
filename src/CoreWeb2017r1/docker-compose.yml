@@ -1,0 +1,10 @@
+version: '2'
+
+services:
+  coreweb2017r1:
+    image: user/coreweb2017r1
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        source: ${DOCKER_BUILD_SOURCE}

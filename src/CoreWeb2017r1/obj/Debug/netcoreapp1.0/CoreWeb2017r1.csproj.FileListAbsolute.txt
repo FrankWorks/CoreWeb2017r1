@@ -1,0 +1,6 @@
+C:\projects\vs2017\CoreWeb2017r1\src\CoreWeb2017r1\bin\Debug\netcoreapp1.0\CoreWeb2017r1.dll
+C:\projects\vs2017\CoreWeb2017r1\src\CoreWeb2017r1\bin\Debug\netcoreapp1.0\CoreWeb2017r1.pdb
+C:\projects\vs2017\CoreWeb2017r1\src\CoreWeb2017r1\obj\Debug\netcoreapp1.0\CoreWeb2017r1.csprojResolveAssemblyReference.cache
+C:\projects\vs2017\CoreWeb2017r1\src\CoreWeb2017r1\obj\Debug\netcoreapp1.0\CoreWeb2017r1.AssemblyInfo.cs
+C:\projects\vs2017\CoreWeb2017r1\src\CoreWeb2017r1\obj\Debug\netcoreapp1.0\CoreWeb2017r1.dll
+C:\projects\vs2017\CoreWeb2017r1\src\CoreWeb2017r1\obj\Debug\netcoreapp1.0\CoreWeb2017r1.pdb
